@@ -218,12 +218,7 @@ img {
 
 @media screen and (max-width: 1000px) {
 
-    .certmargin {
-        margin: 11px 0;
-        align-content: center;
-        align-items: center;
-    }
-    
+
     .aad {
         height: auto;
         width: 300px;
