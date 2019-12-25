@@ -217,17 +217,49 @@ img {
 }
 
 @media screen and (max-width: 1000px) {
+
+    .certmargin {
+        margin: 11px 0;
+        align-content: center;
+        align-items: center;
+    }
+    
     .aad {
         height: auto;
-        width: 150px;
+        width: 300px;
+        align-items: center;
     }
 
-    .wanderlust {
-        font-size: 14px;
+    .container {
+        display: inline;
     }
 
     .box {
-        display: inline-block;
+        margin: 0 0;
+    }
+
+    .special {
+        margin: 0 100px;
+        align-items: center;
+    }
+
+    .hmm {
+        margin-bottom: 30px;
+    }
+
+    .headerimg {
+        margin-left: 0;
+    }
+    h4 {
+        margin-left: 0;
+    }
+
+    #lib {
+        margin-top: 30px;
+    }
+
+    .android {
+        margin-top: 30px;
     }
   }
 
