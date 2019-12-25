@@ -1,0 +1,244 @@
+html, body {
+    background-color: #F7F8F9;
+    margin-top: 2px;
+}
+
+h4 {
+    color: #399BE5;
+    text-transform: uppercase;
+    margin-left: 8px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.headerimg {
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    margin-left: 23px;
+  }
+
+  .boxheader {
+      display: flex;
+      align-items:center;
+  }
+
+  .name {
+      text-align: center;
+      font-size: 31px;
+      font-weight: 630;
+      margin-top: 70px;
+      color: #3A4251;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+
+  p { 
+      margin: 0;
+   }
+
+  .undername {
+      text-align: center;
+      font-size: 19.5px;
+      font-family: 'Noto Sans', sans-serif;
+      color: #3A4251;
+      margin-top: 20px;
+      text-decoration: none;
+  }
+
+  .firstu{
+    border-bottom: 2px solid currentColor;
+  }
+
+  .actions {
+    text-align: center;
+    margin-top: 25px;
+  }
+
+  .actions a {
+    background-color: #399BE5;
+    border-radius: 2px;
+    color: #3A4251;
+    border: 0.5px solid #3A4251;
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    display: inline-block;
+    margin: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  #spacearound {
+    justify-content: space-around;
+   }
+
+   .container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.special {
+    margin: 0 200px;
+}
+
+   .box {
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+    margin: 30px 50px;
+}
+
+.android {
+    text-align: center;
+    font-size: 25px;
+    color: #399BE5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.androiddes {
+    text-align: center;
+    color: #3A4251;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.intro {
+    width: 100%;
+    height: fit-content;
+    background-color: #399BE5;
+}
+
+.introheader {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #3A4251;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 47px;
+}
+
+.introdescription {
+    width: 50%;
+    color: white;
+    padding-top: 15px;
+    font-family: 'Lora', serif;
+    text-align: left;
+    font-size: 15.5px;
+    line-height: 25px;
+}
+
+.descintro {
+    display: flex;
+    justify-content: center;
+}
+
+#register {
+    color: #3A4251;
+}
+
+#anchor {
+    text-decoration: none;
+    color: #3A4251;
+}
+
+.otherapps {
+    margin-bottom: 50px;
+}
+
+#resume a {
+    background-color: white;
+    color: #399BE5;
+    margin-bottom: 40px;
+}
+.myapps {
+    text-align: center;
+    margin: 54px 0;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #3A4251;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.mylibraries {
+    height: fit-content;
+    background-color: #399BE5;
+}
+
+.libraryheader {
+    text-align: center;
+    color: #3A4251;
+    padding-top: 48px;
+    font-weight: 900;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#lib {
+    color: #3A4251;
+}
+
+#libdesc {
+    color: white;
+}
+ 
+#otherlibrary {
+    text-decoration: none;
+    font-weight: bold;
+}
+.certificate {
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+    color: #3A4251;
+}
+.aad {
+    height: 300px;
+    width: 430px;
+    align-items: center;
+}
+.certmargin {
+    margin: 11px 0;
+}
+
+.certfinal {
+    display: flex;
+}
+
+@media screen and (max-width: 1000px) {
+    .aad {
+        height: auto;
+        width: 150px;
+    }
+  }
+
+#certcolor {
+    color: #3A4251;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.anchor {
+  text-decoration: none;
+}
+
+.email {
+    color: #3A4251;
+}
+
+
+
+
+
