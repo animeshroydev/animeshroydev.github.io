@@ -221,6 +221,14 @@ img {
         height: auto;
         width: 150px;
     }
+
+    .wanderlust {
+        font-size: 14px;
+    }
+
+    .box {
+        display: inline-block;
+    }
   }
 
 #certcolor {
